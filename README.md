@@ -1,5 +1,7 @@
 # ember-cli-cloudinary-light
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/davidbilling/ember-cli-cloudinary-light.svg)](https://greenkeeper.io/)
+
 Ember addon for Cloudinary without jquery. Works good for fastboot.
 
 ## Installation
